@@ -11,6 +11,7 @@ export const Menu = () => {
 			<div className='mn-bar'></div>
 			<div className='mn-bar'></div>
 			<div className='mn-bar-more' style={{display: showHide ? 'block' : 'none'}}>
+				<div className='mn-bar-more-elm'>Roadmap</div>
 				<div className='mn-bar-more-elm'>Fact</div>
 				<div className='mn-bar-more-elm'>Login</div>
 				<div className='mn-bar-more-elm'>Contact</div>
