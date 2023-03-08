@@ -1,0 +1,30 @@
+.mn-bar-cont{
+    height: 100%;
+    padding-top:11px;
+    position: relative;
+    cursor: pointer;
+}
+.mn-bar{
+    border-top:3px solid #444;
+    margin-top:7px;
+}
+.mn-bar-more{
+    position: absolute;
+    top:55px;
+    left:-1px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    max-height:150px;
+    width: 170px;
+    padding:5px 0;
+    overflow-y: auto;
+    display: none;
+}
+.mn-bar-more-elm{
+    background-color: #fff;
+    padding:5px 10px;
+    cursor: pointer;
+}
+.mn-bar-more-elm:hover{
+    background-color: #f5f5f5;
+}
