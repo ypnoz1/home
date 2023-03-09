@@ -29,7 +29,7 @@ class Header extends Component {
                         <Menu />
                     </div>
                     <div className='hd-login'>
-                        asda
+                        ---
                     </div>
                     <div className='clr'></div>
                 </div>
