@@ -8,6 +8,7 @@
     "url": "https://github.com/ypnoz1/home.git"
   },
   "dependencies": {
+    "@inter/lib": "https://github.com/ypnoz1/library.git#v0.1.3",
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

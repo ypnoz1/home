@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
+import { ButtonLogin } from '@inter/lib';
 import './Header.css';
-//-----------------------------------   utils   -----------------------------------
 //----------------------------------- Component -----------------------------------
 import { Menu } from '../../menu/Menu';
 //----------------------------------- Other -----------------------------------
@@ -29,7 +29,7 @@ class Header extends Component {
                         <Menu />
                     </div>
                     <div className='hd-login'>
-                        ---
+                        <ButtonLogin />
                     </div>
                     <div className='clr'></div>
                 </div>
